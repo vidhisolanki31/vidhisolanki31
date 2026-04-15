@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/55/e8/af/55e8af23ff4e1055efd3605624dceb66.gif" width="100%" height="400px" />
-
-<br/>
+  <br/>
 
 ## I'm Vidhi Solanki
 
